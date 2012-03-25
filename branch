@@ -1,0 +1,8 @@
+1 create a branch:
+	git branch name;
+2 switch branchs:
+	git checkout name;
+3 delete branch:
+	git branch -d name;
+4 merge branchs:
+	git merge name
