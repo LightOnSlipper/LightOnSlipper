@@ -1,5 +1,5 @@
 
-obj-y := \
+obj-y :=test.o \
 	prom.o \
 	setup.o \
 	memory.o \
