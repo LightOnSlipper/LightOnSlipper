@@ -5,7 +5,7 @@
 # Makefile for the Alchemy Au1xx0 CPUs, generic files.
 #
 
-obj-y += prom.o time.o clocks.o platform.o power.o setup.o \
+obj-y += test.o prom.o time.o clocks.o platform.o power.o setup.o \
 	sleeper.o dma.o dbdma.o vss.o irq.o
 
 # optional gpiolib support
